@@ -19,6 +19,7 @@ body {
   row-gap: 15px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   background-color: rgb(197, 91, 197);
+  margin-top: -4%;
 }
 
 .cards-container {
@@ -66,7 +67,7 @@ body {
   display: flex;
   flex-direction: row;
   width: 100%;
-  margin: -500px 0 20px -270px;
+  margin: -450px 0 20px -270px;
   
 }
 
